@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import App from "./Calculator_Project/App";
 ReactDOM.render(
   <React.StrictMode>
     <App />
